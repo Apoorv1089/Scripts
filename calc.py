@@ -14,3 +14,6 @@ def modulus(x,y):
     return x%y
 adding a new function
 adding a new function
+
+
+F1: Adding a new function
